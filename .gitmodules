@@ -1,8 +1,6 @@
-[submodule "app"]
-	path = app
-	url = https://github.com/lesongvi/vibot3_data_review_app.git
-	branch = main
 [submodule "api"]
 	path = api
 	url = https://github.com/lesongvi/vibot3_data_review_api.git
-	branch = main
+[submodule "app"]
+	path = app
+	url = https://github.com/lesongvi/vibot3_data_review_api.git
