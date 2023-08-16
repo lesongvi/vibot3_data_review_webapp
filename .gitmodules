@@ -1,6 +1,6 @@
 [submodule "api"]
 	path = api
-	url = https://github.com/lesongvi/vibot3_data_review_api.git
+	url = https://github.com/lesongvi/vibot3_reviewer.git
 [submodule "app"]
 	path = app
 	url = https://github.com/lesongvi/vibot3_data_review_app.git
